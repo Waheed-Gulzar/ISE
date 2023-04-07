@@ -29,3 +29,10 @@ during requirements engineering.
 ![grey zone](https://user-images.githubusercontent.com/124068732/230628316-d2d826f8-7ee9-4158-92b2-8e3e48c58a72.PNG)
 
 the grey zone between the system and system context must be resolved. while it is not complusory to resolve the grey zone between system context and irrelevant envirnoments.
+
+## Documenting the System Context
+there are two ways of modeling the system context 
+1. Use cases 
+2. data flow
+when context is modeled using data flow, source and sink of the system are modeled.
+when contexted is modeled using use cases, Actors and their usage to the system is modeled.
