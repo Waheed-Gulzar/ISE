@@ -12,3 +12,12 @@ the concepts of introduction to software engineering
 -> For better understanding interaction of the system and user is identified.
 -> People, System in operation, process, Events and Documents are part of system context.
 -> incomplete system context can cause into the failure of the application.
+
+## Context Boundries 
+The context boundary separates the relevant part of the environment of a
+system to be developed from the irrelevant part, i.e., the part that does not
+influence the system to be developed and, thus, does not have to be considered
+during requirements engineering.
+![grey zone](https://user-images.githubusercontent.com/124068732/230628316-d2d826f8-7ee9-4158-92b2-8e3e48c58a72.PNG)
+
+the grey zone between the system and system context must be resolved. while it is not complusory to resolve the grey zone between system context and irrelevant envirnoments.
