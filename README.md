@@ -13,6 +13,14 @@ the concepts of introduction to software engineering
 -> People, System in operation, process, Events and Documents are part of system context.
 -> incomplete system context can cause into the failure of the application.
 
+## system boundries
+The system boundary separates the system that is to be developed from its
+environment; i.e., it separates the part of the reality that can be modified or
+altered by the development process from aspects of the environment that
+cannot be changed or modified by the development process.
+### source and sink
+source provides the input to the system while the sink provides the output.
+stakeholders are the source while the system is the sink
 ## Context Boundries 
 The context boundary separates the relevant part of the environment of a
 system to be developed from the irrelevant part, i.e., the part that does not
