@@ -5,7 +5,7 @@ the concepts of introduction to software engineering
 # System and Context Boundaries
 ## System Context
 
--> the real part to geather the requirenments of the system. this is called system context.
+-> the real part to gather the requirenments of the system. this is called system context.
 
 -> identifying the materiel and immaterial of the system.
 -> what will be the practical shape of the system ( for better understanding of requirements).
@@ -28,7 +28,7 @@ influence the system to be developed and, thus, does not have to be considered
 during requirements engineering.
 ![grey zone](https://user-images.githubusercontent.com/124068732/230628316-d2d826f8-7ee9-4158-92b2-8e3e48c58a72.PNG)
 
-the grey zone between the system and system context must be resolved. while it is not complusory to resolve the grey zone between system context and irrelevant envirnoments.
+the grey zone between the system and system context must be resolved before the designing. while it is not complusory to resolve the grey zone between system context and irrelevant envirnoments.
 
 ## Documenting the System Context
 there are two ways of modeling the system context 
